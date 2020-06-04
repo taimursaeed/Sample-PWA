@@ -2,10 +2,10 @@
   "name": "Sample PWA",
   "short_name": "Sample PWA short name",
   "description": "Sample PWA description",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "purple",
+  "background_color": "purple",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
